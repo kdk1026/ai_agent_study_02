@@ -1,5 +1,5 @@
 # Python AI Agent Study
-#### [강의] (https://colab.research.google.com/drive/1OCJOE0b6jsYYwz_CcglNAe6l7kxNtQpK?usp=sharing)
+#### [강의] (https://youtu.be/O93x9JvDQd0?si=Df8uZxTuQC9BWpV2)
 
 ## 라이브러리
 ```
