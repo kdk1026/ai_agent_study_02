@@ -3,7 +3,7 @@
 
 ## 라이브러리
 ```
-pip install -qU langchain_community langgraph langchain-google-genai neo4j-driver
+pip install -qU langchain_community langgraph langchain-google-genai neo4j-driver python-dotenv
 ```
 
 <br />
